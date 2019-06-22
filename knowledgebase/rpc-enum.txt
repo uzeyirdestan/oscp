@@ -1,0 +1,1 @@
+rpcinfo -p host #if rpcinfo not installed install rpcbind and nfs-common

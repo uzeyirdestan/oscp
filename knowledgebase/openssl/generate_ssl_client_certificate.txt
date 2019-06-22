@@ -1,0 +1,2 @@
+openssl pkcs12 -export -in intermediate.cert.pem -inkey intermediate.key.pem -out intermediate.p12
+

@@ -1,0 +1,1 @@
+https://www.ibm.com/support/knowledgecenter/en/STAV45/com.ibm.sonas.doc/usgr_cnnctng_via_nfs_frm_unix.html
